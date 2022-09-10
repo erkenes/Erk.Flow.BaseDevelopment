@@ -1,0 +1,19 @@
+{
+    "name": "erkenes/flow-base-development",
+    "description": "Erk Flow Base Development",
+    "config": {
+        "platform": {
+            "php": "8.1",
+            "ext-simplexml": "8.1",
+            "ext-xmlwriter": "8.1",
+            "ext-dom": "8.1",
+            "ext-xml": "8.1",
+            "ext-curl": "8.1",
+            "ext-mbstring":"8.1"
+        }
+    },
+    "require": {
+    },
+    "suggest": {
+    }
+}
