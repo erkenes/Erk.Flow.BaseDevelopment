@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/0.1.0...0.2.0) (2022-10-02)
+
+
+### Features
+
+* remove branch and workflow_dispatch from split workflow ([b9c37e5](https://github.com/erkenes/Erk.Flow.BaseDevelopment/commit/b9c37e56d93ec8028f2507dde8333286fe124453))
+
+
+### Bug Fixes
+
+* update composer.json ([e8ed96a](https://github.com/erkenes/Erk.Flow.BaseDevelopment/commit/e8ed96ad6d51f97df0d1cac4001fa095618adad2))
+
 ## [0.1.0](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/v0.0.1...0.1.0) (2022-09-10)
 
 
