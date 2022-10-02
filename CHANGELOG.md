@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/0.2.0...0.3.0) (2022-10-02)
+
+
+### Features
+
+* **fusionBase:** Add rendering for flash-messages ([99745d3](https://github.com/erkenes/Erk.Flow.BaseDevelopment/commit/99745d311c4fc9158e81b802cc4a4c5cb7fff00f))
+
 ## [0.2.0](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/0.1.0...0.2.0) (2022-10-02)
 
 
