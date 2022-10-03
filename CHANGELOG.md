@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/0.3.0...0.3.1) (2022-10-03)
+
+
+### Bug Fixes
+
+* **fusionBase:** fix resource uri for styling and js ([a429496](https://github.com/erkenes/Erk.Flow.BaseDevelopment/commit/a42949680d71f75d13d1a099829d3455e914ce6b))
+
 ## [0.3.0](https://github.com/erkenes/Erk.Flow.BaseDevelopment/compare/0.2.0...0.3.0) (2022-10-02)
 
 
